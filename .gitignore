@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+*.csv
+cleaned_data/anaconda_projects/
