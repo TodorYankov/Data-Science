@@ -1,0 +1,9 @@
+medium,feature,labels_recorded,works,median_members,rated_percent
+Anime,themes,True,13965,1917.0,70.9702828499821
+Anime,themes,False,11020,631.0,55.707803992740466
+Anime,demographics,True,9514,360.5,47.235652722303975
+Anime,demographics,False,15471,1789.0,74.69458987783595
+Manga,themes,True,24297,309.0,44.80800098777627
+Manga,themes,False,40536,153.0,33.91799881586738
+Manga,demographics,True,26342,248.0,42.730240680282435
+Manga,demographics,False,38491,168.0,34.76137278844405
